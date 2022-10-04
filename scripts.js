@@ -1,3 +1,7 @@
+function test_print(){
+         console.log(“test code”)
+}
+
 $(function () {
     // get all users
     $('#get-button').on('click', function () {
@@ -111,5 +115,3 @@ $(function () {
 });
 
 
-                    
-   
